@@ -1,4 +1,4 @@
-# Mechanistic Interpretability of Fine-Tuned GPT-2 for Summarization
+# Mechanistic Interpretability of Fine-Tuned Language Models for Summarization
 
 This project investigates the internal mechanisms of language models ( like GPT-2, Bart etc) fine-tuned for summarization on (primarily) the CNN/DailyMail dataset. By employing **Edge Attribution Patching (EAP-IG)**, we extract and analyze "circuits" subgraphs of the model responsible for the task and track their evolution throughout the fine-tuning process.
 
